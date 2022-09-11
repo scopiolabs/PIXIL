@@ -1,6 +1,6 @@
 <img src="./public/pixil_logox200.png"/>
 
-# Scopiolabs fork PIXIL🍴
+# PIXIL (Scopiolabs fork🍴)
 
 A TypeScript open-source hackable pixel editor powered by PIXI.js
 
