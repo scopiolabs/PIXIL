@@ -1,6 +1,6 @@
 <img src="./public/pixil_logox200.png"/>
 
-# PIXIL
+# Scopiolabs fork PIXIL🍴
 
 A TypeScript open-source hackable pixel editor powered by PIXI.js
 
@@ -12,11 +12,11 @@ Almost everything is exposed, extendable, and modular for bending this editor to
 
 ## Installation:
 ```sh
-npm i @sgty/pixil
+npm i @scopio/pixil
 ```
 ```sh
-yarn add @sgty/pixil
+yarn add @scopio/pixil
 ```
 ```sh
-pnpm add @sgty/pixil
+pnpm add @scopio/pixil
 ```
