@@ -1,6 +1,6 @@
 {
   "name": "@scopio/pixil",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "",
   "main": "build/main.js",
   "types": "build/types",
@@ -14,9 +14,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "engines": {
-    "node": ">=14"
-  },
   "devDependencies": {
     "@types/color": "^3.0.3",
     "html-webpack-plugin": "^5.5.0",
