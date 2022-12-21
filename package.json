@@ -1,6 +1,6 @@
 {
   "name": "@scopio/pixil",
-  "version": "1.1.0",
+  "version": "1.1.0-s1",
   "description": "",
   "main": "build/index.js",
   "types": "build/types",
@@ -19,8 +19,6 @@
     "@types/color": "^3.0.3",
     "@types/offscreencanvas": "^2019.7.0",
     "html-webpack-plugin": "^5.5.0",
-    "pixi-viewport": "4.35.0",
-    "pixi.js": "^6.5.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "terser-webpack-plugin": "^5.3.5",
@@ -31,11 +29,9 @@
     "webpack-cli": "^4.10.0",
     "webpack-dev-server": "^4.10.0"
   },
-  "peerDependencies": {
-    "pixi-viewport": "4.35.0",
-    "pixi.js": "^6.5.1"
-  },
   "dependencies": {
+    "pixi-viewport": "4.35.0",
+    "pixi.js": "^6.5.1",
     "@sgty/m-it": "^1.0.2",
     "color": "^4.2.3"
   }

@@ -31,3 +31,4 @@ export { default as createCheckerboardTexture } from './addon/overlays/Checkerbo
 
 export { default as Editor, EditorOptions } from './Editor';
 export { default as History, HistoryEntry, IHistoryTarget } from './History';
+export * as PIXIL from 'pixi.js'
