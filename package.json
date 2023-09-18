@@ -1,6 +1,6 @@
 {
 	"name": "@scopio/pixil",
-	"version": "1.1.0",
+	"version": "1.1.0-cjs1",
 	"description": "",
 	"main": "build/index.js",
 	"types": "build/types",
@@ -17,6 +17,8 @@
 	"devDependencies": {
 		"@types/color": "^3.0.3",
 		"@types/offscreencanvas": "^2019.7.0",
+		"@types/react": "^18.2.21",
+		"@types/react-dom": "^18.2.7",
 		"html-webpack-plugin": "^5.5.0",
 		"pixi-viewport": "4.35.0",
 		"pixi.js": "^6.5.1",
